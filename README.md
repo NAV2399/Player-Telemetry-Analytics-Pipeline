@@ -1,5 +1,8 @@
 # Player-Telemetry-Analytics-Pipeline
 
+<img width="1896" height="523" alt="image" src="https://github.com/user-attachments/assets/2b0f6189-53c5-4a2d-a941-d8d9134d1a0e" />
+
+
 1. Introduction
 
 This project demonstrates how to build an end-to-end data pipeline for handling real-time player telemetry data in the gaming domain.
